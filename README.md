@@ -1,13 +1,12 @@
 # APIGazin
 
-Realizer Testes API
+Realizar Testes API
 
 Terminal
   -- yarn test
 
 iniciar API pelo Docker
   
-
 Terminal
   -- docker-compose up
   
